@@ -164,7 +164,7 @@ Reluma is distributed as a Windows desktop application.
 6. Scan and review the results.
 7. Restore selected files to a separate physical disk.
 
-**Official product page:** [Reluma](https://gumroad.com/)
+**Official product page:** [Reluma](https://fastsolutionsllc.gumroad.com/l/reluma)
 
 Replace the product link above with the direct Reluma product URL before publishing this README.
 
