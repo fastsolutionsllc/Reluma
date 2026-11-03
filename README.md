@@ -1,4 +1,5 @@
 # Reluma
+![Reluma Cover](https://raw.githubusercontent.com/fastsolutionsllc/Reluma/refs/heads/main/Screenshots/cover.png)
 
 **Find what was lost.**
 
